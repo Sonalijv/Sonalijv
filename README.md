@@ -3,7 +3,7 @@
 Aspiring Data Analyst
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                            
 - 🌱 I’m currently learning machine learning techniques and exploring critical solutions and Integrating AI to my workflow
--  More intrested in creating UI using 
+-  More intrested in creating Creative UI  
 - 📧 Reach me through sonalijv18@gmail.com
 - ⚡ Fun fact: I know Japanese a little !
 - Social Presence
