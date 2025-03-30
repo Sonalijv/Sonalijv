@@ -19,3 +19,9 @@ Aspiring Data Analyst
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalijv&bg_color=000000&color=5e5e5e&line=653e63&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+### Watch my contribution graph get eaten by the snake :snake:
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/Sonalijv/Sonalijv/blob/output/github-snake.svg)
